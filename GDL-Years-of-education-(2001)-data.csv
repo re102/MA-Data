@@ -1,0 +1,352 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,"Females 20-39","Males 20-39"
+"Algeria","Africa","DZA","National","DZAt","Total",6.42,8.14
+"Algeria","Africa","DZA","Urb/rur","DZAtu","Urban",8.07,8.86
+"Algeria","Africa","DZA","Urb/rur","DZAtr","Rural",4.08,7.06
+"Algeria","Africa","DZA","Poverty","DZAp1","Poor",2.24,5.51
+"Algeria","Africa","DZA","Poverty","DZAp0","Nonpoor",6.93,8.42
+"Algeria","Africa","DZA","Wealth quartiles","DZAw41","Lowest 25%",2.94,6.13
+"Algeria","Africa","DZA","Wealth quartiles","DZAw42","Second 25%",5.18,7.50
+"Algeria","Africa","DZA","Wealth quartiles","DZAw43","Third 25%",7.52,8.60
+"Algeria","Africa","DZA","Wealth quartiles","DZAw44","Highest 25%",9.65,9.95
+"Angola","Africa","AGO","National","AGOt","Total",3.42,5.41
+"Angola","Africa","AGO","Urb/rur","AGOtu","Urban",4.29,6.34
+"Angola","Africa","AGO","Urb/rur","AGOtr","Rural",1.78,3.57
+"Angola","Africa","AGO","Poverty","AGOp1","Poor",2.54,4.67
+"Angola","Africa","AGO","Poverty","AGOp0","Nonpoor",6.92,8.05
+"Angola","Africa","AGO","Wealth quartiles","AGOw41","Lowest 25%",1.36,3.18
+"Angola","Africa","AGO","Wealth quartiles","AGOw42","Second 25%",2.03,4.23
+"Angola","Africa","AGO","Wealth quartiles","AGOw43","Third 25%",3.32,5.45
+"Angola","Africa","AGO","Wealth quartiles","AGOw44","Highest 25%",5.90,7.36
+"Benin","Africa","BEN","National","BENt","Total",1.90,4.21
+"Benin","Africa","BEN","Urb/rur","BENtu","Urban",3.50,6.21
+"Benin","Africa","BEN","Urb/rur","BENtr","Rural",0.87,2.79
+"Benin","Africa","BEN","Poverty","BENp1","Poor",1.18,3.16
+"Benin","Africa","BEN","Poverty","BENp0","Nonpoor",5.83,9.23
+"Benin","Africa","BEN","Wealth quartiles","BENw41","Lowest 25%",0.30,1.43
+"Benin","Africa","BEN","Wealth quartiles","BENw42","Second 25%",0.70,2.29
+"Benin","Africa","BEN","Wealth quartiles","BENw43","Third 25%",1.36,4.15
+"Benin","Africa","BEN","Wealth quartiles","BENw44","Highest 25%",4.72,8.01
+"Botswana","Africa","BWA","National","BWAt","Total",8.50,8.14
+"Botswana","Africa","BWA","Urb/rur","BWAtu","Urban",9.93,9.91
+"Botswana","Africa","BWA","Urb/rur","BWAtr","Rural",7.95,7.52
+"Botswana","Africa","BWA","Poverty","BWAp1","Poor",7.14,6.51
+"Botswana","Africa","BWA","Poverty","BWAp0","Nonpoor",10.5,10.7
+"Botswana","Africa","BWA","Wealth quartiles","BWAw41","Lowest 25%",5.50,4.82
+"Botswana","Africa","BWA","Wealth quartiles","BWAw42","Second 25%",7.47,6.76
+"Botswana","Africa","BWA","Wealth quartiles","BWAw43","Third 25%",8.71,8.31
+"Botswana","Africa","BWA","Wealth quartiles","BWAw44","Highest 25%",11.1,11.3
+"Burkina Faso","Africa","BFA","National","BFAt","Total",1.14,2.40
+"Burkina Faso","Africa","BFA","Urb/rur","BFAtu","Urban",4.49,6.15
+"Burkina Faso","Africa","BFA","Urb/rur","BFAtr","Rural",0.34,0.98
+"Burkina Faso","Africa","BFA","Poverty","BFAp1","Poor",0.62,1.63
+"Burkina Faso","Africa","BFA","Poverty","BFAp0","Nonpoor",6.94,8.57
+"Burkina Faso","Africa","BFA","Wealth quartiles","BFAw41","Lowest 25%",0.14,0.42
+"Burkina Faso","Africa","BFA","Wealth quartiles","BFAw42","Second 25%",0.22,0.65
+"Burkina Faso","Africa","BFA","Wealth quartiles","BFAw43","Third 25%",0.40,1.08
+"Burkina Faso","Africa","BFA","Wealth quartiles","BFAw44","Highest 25%",3.58,5.53
+"Cameroon","Africa","CMR","National","CMRt","Total",5.63,7.44
+"Cameroon","Africa","CMR","Urb/rur","CMRtu","Urban",7.56,9.15
+"Cameroon","Africa","CMR","Urb/rur","CMRtr","Rural",3.99,5.78
+"Cameroon","Africa","CMR","Poverty","CMRp1","Poor",4.79,6.69
+"Cameroon","Africa","CMR","Poverty","CMRp0","Nonpoor",9.34,10.7
+"Cameroon","Africa","CMR","Wealth quartiles","CMRw41","Lowest 25%",2.25,4.02
+"Cameroon","Africa","CMR","Wealth quartiles","CMRw42","Second 25%",4.08,5.78
+"Cameroon","Africa","CMR","Wealth quartiles","CMRw43","Third 25%",6.30,7.73
+"Cameroon","Africa","CMR","Wealth quartiles","CMRw44","Highest 25%",8.91,10.2
+"Central African Republic","Africa","CAF","National","CAFt","Total",2.87,5.30
+"Central African Republic","Africa","CAF","Urb/rur","CAFtu","Urban",4.85,7.24
+"Central African Republic","Africa","CAF","Urb/rur","CAFtr","Rural",1.41,3.77
+"Central African Republic","Africa","CAF","Poverty","CAFp1","Poor",2.59,5.06
+"Central African Republic","Africa","CAF","Poverty","CAFp0","Nonpoor",8.38,9.84
+"Central African Republic","Africa","CAF","Wealth quartiles","CAFw41","Lowest 25%",0.85,2.83
+"Central African Republic","Africa","CAF","Wealth quartiles","CAFw42","Second 25%",1.37,3.85
+"Central African Republic","Africa","CAF","Wealth quartiles","CAFw43","Third 25%",2.36,4.95
+"Central African Republic","Africa","CAF","Wealth quartiles","CAFw44","Highest 25%",5.30,7.77
+"Chad","Africa","TCD","National","TCDt","Total",1.00,3.29
+"Chad","Africa","TCD","Urb/rur","TCDtu","Urban",2.84,5.85
+"Chad","Africa","TCD","Urb/rur","TCDtr","Rural",0.49,2.25
+"Chad","Africa","TCD","Poverty","TCDp1","Poor",0.86,3.10
+"Chad","Africa","TCD","Poverty","TCDp0","Nonpoor",6.04,8.54
+"Chad","Africa","TCD","Wealth quartiles","TCDw41","Lowest 25%",0.11,0.68
+"Chad","Africa","TCD","Wealth quartiles","TCDw42","Second 25%",0.43,1.92
+"Chad","Africa","TCD","Wealth quartiles","TCDw43","Third 25%",0.69,2.93
+"Chad","Africa","TCD","Wealth quartiles","TCDw44","Highest 25%",2.52,5.73
+"Comoros","Africa","COM","National","COMt","Total",4.24,5.87
+"Comoros","Africa","COM","Urb/rur","COMtu","Urban",6.28,7.17
+"Comoros","Africa","COM","Urb/rur","COMtr","Rural",3.29,5.17
+"Comoros","Africa","COM","Poverty","COMp1","Poor",3.12,4.94
+"Comoros","Africa","COM","Poverty","COMp0","Nonpoor",7.53,8.47
+"Comoros","Africa","COM","Wealth quartiles","COMw41","Lowest 25%",1.47,3.37
+"Comoros","Africa","COM","Wealth quartiles","COMw42","Second 25%",3.13,4.75
+"Comoros","Africa","COM","Wealth quartiles","COMw43","Third 25%",4.30,6.03
+"Comoros","Africa","COM","Wealth quartiles","COMw44","Highest 25%",6.98,8.17
+"Cote d'Ivoire","Africa","CIV","National","CIVt","Total",3.21,5.11
+"Cote d'Ivoire","Africa","CIV","Urb/rur","CIVtu","Urban",4.67,7.09
+"Cote d'Ivoire","Africa","CIV","Urb/rur","CIVtr","Rural",1.99,3.43
+"Cote d'Ivoire","Africa","CIV","Poverty","CIVp1","Poor",2.06,3.50
+"Cote d'Ivoire","Africa","CIV","Poverty","CIVp0","Nonpoor",5.34,8.43
+"Cote d'Ivoire","Africa","CIV","Wealth quartiles","CIVw41","Lowest 25%",1.35,2.33
+"Cote d'Ivoire","Africa","CIV","Wealth quartiles","CIVw42","Second 25%",2.04,3.39
+"Cote d'Ivoire","Africa","CIV","Wealth quartiles","CIVw43","Third 25%",2.72,4.51
+"Cote d'Ivoire","Africa","CIV","Wealth quartiles","CIVw44","Highest 25%",5.83,8.80
+"Egypt, Arab Rep.","Africa","EGY","National","EGYt","Total",7.04,9.20
+"Egypt, Arab Rep.","Africa","EGY","Urb/rur","EGYtu","Urban",9.55,10.4
+"Egypt, Arab Rep.","Africa","EGY","Urb/rur","EGYtr","Rural",4.97,8.27
+"Egypt, Arab Rep.","Africa","EGY","Poverty","EGYp1","Poor",1.57,5.60
+"Egypt, Arab Rep.","Africa","EGY","Poverty","EGYp0","Nonpoor",7.58,9.57
+"Egypt, Arab Rep.","Africa","EGY","Wealth quartiles","EGYw41","Lowest 25%",2.49,6.49
+"Egypt, Arab Rep.","Africa","EGY","Wealth quartiles","EGYw42","Second 25%",5.51,8.60
+"Egypt, Arab Rep.","Africa","EGY","Wealth quartiles","EGYw43","Third 25%",8.67,10.0
+"Egypt, Arab Rep.","Africa","EGY","Wealth quartiles","EGYw44","Highest 25%",12.2,12.7
+"Equatorial Guinea","Africa","GNQ","National","GNQt","Total",5.30,7.63
+"Equatorial Guinea","Africa","GNQ","Urb/rur","GNQtu","Urban",6.48,8.88
+"Equatorial Guinea","Africa","GNQ","Urb/rur","GNQtr","Rural",4.09,6.09
+"Equatorial Guinea","Africa","GNQ","Poverty","GNQp1","Poor",4.94,7.30
+"Equatorial Guinea","Africa","GNQ","Poverty","GNQp0","Nonpoor",6.49,8.67
+"Equatorial Guinea","Africa","GNQ","Wealth quartiles","GNQw41","Lowest 25%",3.94,6.31
+"Equatorial Guinea","Africa","GNQ","Wealth quartiles","GNQw42","Second 25%",4.49,6.53
+"Equatorial Guinea","Africa","GNQ","Wealth quartiles","GNQw43","Third 25%",5.90,8.42
+"Equatorial Guinea","Africa","GNQ","Wealth quartiles","GNQw44","Highest 25%",6.22,8.48
+"Eritrea","Africa","ERI","National","ERIt","Total",3.14,5.37
+"Eritrea","Africa","ERI","Urb/rur","ERItu","Urban",5.90,8.60
+"Eritrea","Africa","ERI","Urb/rur","ERItr","Rural",1.09,3.03
+"Eritrea","Africa","ERI","Poverty","ERIp1","Poor",2.07,4.35
+"Eritrea","Africa","ERI","Poverty","ERIp0","Nonpoor",8.15,10.1
+"Eritrea","Africa","ERI","Wealth quartiles","ERIw41","Lowest 25%",0.38,1.90
+"Eritrea","Africa","ERI","Wealth quartiles","ERIw42","Second 25%",0.77,2.65
+"Eritrea","Africa","ERI","Wealth quartiles","ERIw43","Third 25%",2.74,5.50
+"Eritrea","Africa","ERI","Wealth quartiles","ERIw44","Highest 25%",7.20,9.39
+"Eswatini","Africa","SWZ","National","SWZt","Total",7.83,7.98
+"Eswatini","Africa","SWZ","Urb/rur","SWZtu","Urban",9.26,9.16
+"Eswatini","Africa","SWZ","Urb/rur","SWZtr","Rural",7.23,7.39
+"Eswatini","Africa","SWZ","Poverty","SWZp1","Poor",6.86,7.08
+"Eswatini","Africa","SWZ","Poverty","SWZp0","Nonpoor",9.93,9.88
+"Eswatini","Africa","SWZ","Wealth quartiles","SWZw41","Lowest 25%",5.46,5.28
+"Eswatini","Africa","SWZ","Wealth quartiles","SWZw42","Second 25%",7.15,7.36
+"Eswatini","Africa","SWZ","Wealth quartiles","SWZw43","Third 25%",8.42,8.61
+"Eswatini","Africa","SWZ","Wealth quartiles","SWZw44","Highest 25%",10.3,10.2
+"Ethiopia","Africa","ETH","National","ETHt","Total",1.51,3.03
+"Ethiopia","Africa","ETH","Urb/rur","ETHtu","Urban",5.54,7.81
+"Ethiopia","Africa","ETH","Urb/rur","ETHtr","Rural",0.64,2.06
+"Ethiopia","Africa","ETH","Poverty","ETHp1","Poor",1.22,2.77
+"Ethiopia","Africa","ETH","Poverty","ETHp0","Nonpoor",8.72,10.6
+"Ethiopia","Africa","ETH","Wealth quartiles","ETHw41","Lowest 25%",0.34,1.42
+"Ethiopia","Africa","ETH","Wealth quartiles","ETHw42","Second 25%",0.43,1.65
+"Ethiopia","Africa","ETH","Wealth quartiles","ETHw43","Third 25%",0.63,2.26
+"Ethiopia","Africa","ETH","Wealth quartiles","ETHw44","Highest 25%",4.32,6.35
+"Gabon","Africa","GAB","National","GABt","Total",7.34,8.26
+"Gabon","Africa","GAB","Urb/rur","GABtu","Urban",7.77,8.55
+"Gabon","Africa","GAB","Urb/rur","GABtr","Rural",5.49,7.00
+"Gabon","Africa","GAB","Poverty","GABp1","Poor",6.08,7.00
+"Gabon","Africa","GAB","Poverty","GABp0","Nonpoor",8.38,9.40
+"Gabon","Africa","GAB","Wealth quartiles","GABw41","Lowest 25%",5.28,6.63
+"Gabon","Africa","GAB","Wealth quartiles","GABw42","Second 25%",6.49,7.09
+"Gabon","Africa","GAB","Wealth quartiles","GABw43","Third 25%",7.31,8.38
+"Gabon","Africa","GAB","Wealth quartiles","GABw44","Highest 25%",9.12,10.0
+"Gambia, The","Africa","GMB","National","GMBt","Total",2.89,5.06
+"Gambia, The","Africa","GMB","Urb/rur","GMBtu","Urban",4.92,6.98
+"Gambia, The","Africa","GMB","Urb/rur","GMBtr","Rural",1.14,3.06
+"Gambia, The","Africa","GMB","Poverty","GMBp1","Poor",1.49,3.64
+"Gambia, The","Africa","GMB","Poverty","GMBp0","Nonpoor",5.89,7.71
+"Gambia, The","Africa","GMB","Wealth quartiles","GMBw41","Lowest 25%",0.73,2.06
+"Gambia, The","Africa","GMB","Wealth quartiles","GMBw42","Second 25%",1.39,3.96
+"Gambia, The","Africa","GMB","Wealth quartiles","GMBw43","Third 25%",3.27,5.75
+"Gambia, The","Africa","GMB","Wealth quartiles","GMBw44","Highest 25%",6.64,8.15
+"Ghana","Africa","GHA","National","GHAt","Total",5.84,8.20
+"Ghana","Africa","GHA","Urb/rur","GHAtu","Urban",7.78,10.0
+"Ghana","Africa","GHA","Urb/rur","GHAtr","Rural",4.34,6.74
+"Ghana","Africa","GHA","Poverty","GHAp1","Poor",4.85,7.28
+"Ghana","Africa","GHA","Poverty","GHAp0","Nonpoor",9.55,11.5
+"Ghana","Africa","GHA","Wealth quartiles","GHAw41","Lowest 25%",2.72,4.84
+"Ghana","Africa","GHA","Wealth quartiles","GHAw42","Second 25%",4.85,7.35
+"Ghana","Africa","GHA","Wealth quartiles","GHAw43","Third 25%",6.35,8.78
+"Ghana","Africa","GHA","Wealth quartiles","GHAw44","Highest 25%",9.09,11.1
+"Kenya","Africa","KEN","National","KENt","Total",7.53,8.56
+"Kenya","Africa","KEN","Urb/rur","KENtu","Urban",9.20,9.97
+"Kenya","Africa","KEN","Urb/rur","KENtr","Rural",6.90,7.94
+"Kenya","Africa","KEN","Poverty","KENp1","Poor",7.00,8.15
+"Kenya","Africa","KEN","Poverty","KENp0","Nonpoor",10.6,11.2
+"Kenya","Africa","KEN","Wealth quartiles","KENw41","Lowest 25%",5.12,6.56
+"Kenya","Africa","KEN","Wealth quartiles","KENw42","Second 25%",6.82,7.81
+"Kenya","Africa","KEN","Wealth quartiles","KENw43","Third 25%",8.08,8.71
+"Kenya","Africa","KEN","Wealth quartiles","KENw44","Highest 25%",9.82,10.3
+"Lesotho","Africa","LSO","National","LSOt","Total",7.65,5.77
+"Lesotho","Africa","LSO","Urb/rur","LSOtu","Urban",9.29,8.94
+"Lesotho","Africa","LSO","Urb/rur","LSOtr","Rural",7.21,5.05
+"Lesotho","Africa","LSO","Poverty","LSOp1","Poor",7.36,5.31
+"Lesotho","Africa","LSO","Poverty","LSOp0","Nonpoor",10.3,10.4
+"Lesotho","Africa","LSO","Wealth quartiles","LSOw41","Lowest 25%",5.81,2.91
+"Lesotho","Africa","LSO","Wealth quartiles","LSOw42","Second 25%",6.97,4.83
+"Lesotho","Africa","LSO","Wealth quartiles","LSOw43","Third 25%",7.84,6.30
+"Lesotho","Africa","LSO","Wealth quartiles","LSOw44","Highest 25%",9.22,8.80
+"Madagascar","Africa","MDG","National","MDGt","Total",4.59,5.07
+"Madagascar","Africa","MDG","Urb/rur","MDGtu","Urban",7.22,7.78
+"Madagascar","Africa","MDG","Urb/rur","MDGtr","Rural",3.70,4.18
+"Madagascar","Africa","MDG","Poverty","MDGp1","Poor",4.13,4.60
+"Madagascar","Africa","MDG","Poverty","MDGp0","Nonpoor",11.5,11.8
+"Madagascar","Africa","MDG","Wealth quartiles","MDGw41","Lowest 25%",2.03,2.38
+"Madagascar","Africa","MDG","Wealth quartiles","MDGw42","Second 25%",2.83,3.14
+"Madagascar","Africa","MDG","Wealth quartiles","MDGw43","Third 25%",4.46,4.81
+"Madagascar","Africa","MDG","Wealth quartiles","MDGw44","Highest 25%",8.72,9.18
+"Malawi","Africa","MWI","National","MWIt","Total",4.16,6.18
+"Malawi","Africa","MWI","Urb/rur","MWItu","Urban",7.29,8.89
+"Malawi","Africa","MWI","Urb/rur","MWItr","Rural",3.52,5.48
+"Malawi","Africa","MWI","Poverty","MWIp1","Poor",3.85,5.89
+"Malawi","Africa","MWI","Poverty","MWIp0","Nonpoor",10.3,11.2
+"Malawi","Africa","MWI","Wealth quartiles","MWIw41","Lowest 25%",2.38,4.13
+"Malawi","Africa","MWI","Wealth quartiles","MWIw42","Second 25%",3.35,5.36
+"Malawi","Africa","MWI","Wealth quartiles","MWIw43","Third 25%",3.94,5.85
+"Malawi","Africa","MWI","Wealth quartiles","MWIw44","Highest 25%",6.51,8.17
+"Mali","Africa","MLI","National","MLIt","Total",1.25,2.45
+"Mali","Africa","MLI","Urb/rur","MLItu","Urban",3.34,5.08
+"Mali","Africa","MLI","Urb/rur","MLItr","Rural",0.41,1.00
+"Mali","Africa","MLI","Poverty","MLIp1","Poor",0.77,1.72
+"Mali","Africa","MLI","Poverty","MLIp0","Nonpoor",6.27,7.82
+"Mali","Africa","MLI","Wealth quartiles","MLIw41","Lowest 25%",0.26,0.72
+"Mali","Africa","MLI","Wealth quartiles","MLIw42","Second 25%",0.29,0.85
+"Mali","Africa","MLI","Wealth quartiles","MLIw43","Third 25%",0.49,1.17
+"Mali","Africa","MLI","Wealth quartiles","MLIw44","Highest 25%",3.40,5.16
+"Mauritania","Africa","MRT","National","MRTt","Total",3.44,5.48
+"Mauritania","Africa","MRT","Urb/rur","MRTtu","Urban",4.99,6.94
+"Mauritania","Africa","MRT","Urb/rur","MRTtr","Rural",2.12,3.53
+"Mauritania","Africa","MRT","Poverty","MRTp1","Poor",2.87,4.74
+"Mauritania","Africa","MRT","Poverty","MRTp0","Nonpoor",7.27,9.03
+"Mauritania","Africa","MRT","Wealth quartiles","MRTw41","Lowest 25%",1.58,2.43
+"Mauritania","Africa","MRT","Wealth quartiles","MRTw42","Second 25%",2.12,3.49
+"Mauritania","Africa","MRT","Wealth quartiles","MRTw43","Third 25%",3.26,5.52
+"Mauritania","Africa","MRT","Wealth quartiles","MRTw44","Highest 25%",6.09,7.98
+"Morocco","Africa","MAR","National","MARt","Total",3.77,5.80
+"Morocco","Africa","MAR","Urb/rur","MARtu","Urban",5.63,7.48
+"Morocco","Africa","MAR","Urb/rur","MARtr","Rural",1.09,3.42
+"Morocco","Africa","MAR","Poverty","MARp1","Poor",0.81,2.80
+"Morocco","Africa","MAR","Poverty","MARp0","Nonpoor",5.18,7.29
+"Morocco","Africa","MAR","Wealth quartiles","MARw41","Lowest 25%",0.56,2.48
+"Morocco","Africa","MAR","Wealth quartiles","MARw42","Second 25%",1.91,4.13
+"Morocco","Africa","MAR","Wealth quartiles","MARw43","Third 25%",4.59,6.75
+"Morocco","Africa","MAR","Wealth quartiles","MARw44","Highest 25%",7.69,9.62
+"Mozambique","Africa","MOZ","National","MOZt","Total",2.22,3.97
+"Mozambique","Africa","MOZ","Urb/rur","MOZtu","Urban",4.21,5.97
+"Mozambique","Africa","MOZ","Urb/rur","MOZtr","Rural",1.34,2.92
+"Mozambique","Africa","MOZ","Poverty","MOZp1","Poor",1.85,3.60
+"Mozambique","Africa","MOZ","Poverty","MOZp0","Nonpoor",6.71,7.90
+"Mozambique","Africa","MOZ","Wealth quartiles","MOZw41","Lowest 25%",0.82,2.34
+"Mozambique","Africa","MOZ","Wealth quartiles","MOZw42","Second 25%",1.22,2.70
+"Mozambique","Africa","MOZ","Wealth quartiles","MOZw43","Third 25%",1.68,3.56
+"Mozambique","Africa","MOZ","Wealth quartiles","MOZw44","Highest 25%",4.42,6.10
+"Namibia","Africa","NAM","National","NAMt","Total",7.91,7.68
+"Namibia","Africa","NAM","Urb/rur","NAMtu","Urban",9.15,8.87
+"Namibia","Africa","NAM","Urb/rur","NAMtr","Rural",6.85,6.51
+"Namibia","Africa","NAM","Poverty","NAMp1","Poor",6.76,6.41
+"Namibia","Africa","NAM","Poverty","NAMp0","Nonpoor",9.74,9.66
+"Namibia","Africa","NAM","Wealth quartiles","NAMw41","Lowest 25%",5.70,5.81
+"Namibia","Africa","NAM","Wealth quartiles","NAMw42","Second 25%",7.32,6.52
+"Namibia","Africa","NAM","Wealth quartiles","NAMw43","Third 25%",7.70,7.26
+"Namibia","Africa","NAM","Wealth quartiles","NAMw44","Highest 25%",10.3,10.3
+"Niger","Africa","NER","National","NERt","Total",0.97,2.08
+"Niger","Africa","NER","Urb/rur","NERtu","Urban",3.34,4.96
+"Niger","Africa","NER","Urb/rur","NERtr","Rural",0.40,1.19
+"Niger","Africa","NER","Poverty","NERp1","Poor",0.65,1.63
+"Niger","Africa","NER","Poverty","NERp0","Nonpoor",5.90,7.33
+"Niger","Africa","NER","Wealth quartiles","NERw41","Lowest 25%",0.26,0.75
+"Niger","Africa","NER","Wealth quartiles","NERw42","Second 25%",0.32,0.89
+"Niger","Africa","NER","Wealth quartiles","NERw43","Third 25%",0.50,1.24
+"Niger","Africa","NER","Wealth quartiles","NERw44","Highest 25%",2.59,4.38
+"Nigeria","Africa","NGA","National","NGAt","Total",5.65,8.03
+"Nigeria","Africa","NGA","Urb/rur","NGAtu","Urban",7.93,10.0
+"Nigeria","Africa","NGA","Urb/rur","NGAtr","Rural",4.49,6.95
+"Nigeria","Africa","NGA","Poverty","NGAp1","Poor",4.39,6.97
+"Nigeria","Africa","NGA","Poverty","NGAp0","Nonpoor",9.72,11.3
+"Nigeria","Africa","NGA","Wealth quartiles","NGAw41","Lowest 25%",1.99,4.06
+"Nigeria","Africa","NGA","Wealth quartiles","NGAw42","Second 25%",3.59,6.37
+"Nigeria","Africa","NGA","Wealth quartiles","NGAw43","Third 25%",6.08,8.86
+"Nigeria","Africa","NGA","Wealth quartiles","NGAw44","Highest 25%",9.98,11.3
+"Rwanda","Africa","RWA","National","RWAt","Total",4.16,4.77
+"Rwanda","Africa","RWA","Urb/rur","RWAtu","Urban",6.71,7.35
+"Rwanda","Africa","RWA","Urb/rur","RWAtr","Rural",3.60,4.05
+"Rwanda","Africa","RWA","Poverty","RWAp1","Poor",3.98,4.53
+"Rwanda","Africa","RWA","Poverty","RWAp0","Nonpoor",8.95,8.93
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw41","Lowest 25%",2.91,3.22
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw42","Second 25%",3.15,3.49
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw43","Third 25%",3.93,4.48
+"Rwanda","Africa","RWA","Wealth quartiles","RWAw44","Highest 25%",6.11,6.67
+"Sao Tome and Principe","Africa","STP","National","STPt","Total",5.22,6.26
+"Sao Tome and Principe","Africa","STP","Urb/rur","STPtu","Urban",5.78,6.74
+"Sao Tome and Principe","Africa","STP","Urb/rur","STPtr","Rural",4.62,5.82
+"Sao Tome and Principe","Africa","STP","Poverty","STPp1","Poor",4.58,5.63
+"Sao Tome and Principe","Africa","STP","Poverty","STPp0","Nonpoor",6.91,7.93
+"Sao Tome and Principe","Africa","STP","Wealth quartiles","STPw41","Lowest 25%",3.83,4.92
+"Sao Tome and Principe","Africa","STP","Wealth quartiles","STPw42","Second 25%",4.36,5.46
+"Sao Tome and Principe","Africa","STP","Wealth quartiles","STPw43","Third 25%",5.12,6.16
+"Sao Tome and Principe","Africa","STP","Wealth quartiles","STPw44","Highest 25%",6.89,7.92
+"Senegal","Africa","SEN","National","SENt","Total",2.22,3.70
+"Senegal","Africa","SEN","Urb/rur","SENtu","Urban",4.01,5.51
+"Senegal","Africa","SEN","Urb/rur","SENtr","Rural",0.69,1.60
+"Senegal","Africa","SEN","Poverty","SENp1","Poor",0.86,2.03
+"Senegal","Africa","SEN","Poverty","SENp0","Nonpoor",4.34,6.06
+"Senegal","Africa","SEN","Wealth quartiles","SENw41","Lowest 25%",0.35,1.01
+"Senegal","Africa","SEN","Wealth quartiles","SENw42","Second 25%",0.87,2.08
+"Senegal","Africa","SEN","Wealth quartiles","SENw43","Third 25%",2.04,3.63
+"Senegal","Africa","SEN","Wealth quartiles","SENw44","Highest 25%",4.80,6.52
+"South Africa","Africa","ZAF","National","ZAFt","Total",9.47,9.61
+"South Africa","Africa","ZAF","Urb/rur","ZAFtu","Urban",10.3,10.3
+"South Africa","Africa","ZAF","Urb/rur","ZAFtr","Rural",8.15,8.28
+"South Africa","Africa","ZAF","Poverty","ZAFp1","Poor",7.70,7.85
+"South Africa","Africa","ZAF","Poverty","ZAFp0","Nonpoor",10.5,10.6
+"South Africa","Africa","ZAF","Wealth quartiles","ZAFw41","Lowest 25%",7.18,7.31
+"South Africa","Africa","ZAF","Wealth quartiles","ZAFw42","Second 25%",8.64,8.74
+"South Africa","Africa","ZAF","Wealth quartiles","ZAFw43","Third 25%",10.1,9.99
+"South Africa","Africa","ZAF","Wealth quartiles","ZAFw44","Highest 25%",11.7,11.8
+"Sudan","Africa","SDN","National","SDNt","Total",4.53,6.12
+"Sudan","Africa","SDN","Urb/rur","SDNtu","Urban",6.31,7.74
+"Sudan","Africa","SDN","Urb/rur","SDNtr","Rural",2.74,4.37
+"Sudan","Africa","SDN","Poverty","SDNp1","Poor",3.03,4.78
+"Sudan","Africa","SDN","Poverty","SDNp0","Nonpoor",9.43,10.1
+"Sudan","Africa","SDN","Wealth quartiles","SDNw41","Lowest 25%",1.00,2.45
+"Sudan","Africa","SDN","Wealth quartiles","SDNw42","Second 25%",2.06,4.10
+"Sudan","Africa","SDN","Wealth quartiles","SDNw43","Third 25%",4.31,5.93
+"Sudan","Africa","SDN","Wealth quartiles","SDNw44","Highest 25%",8.81,9.68
+"Tanzania","Africa","TZA","National","TZAt","Total",5.36,6.22
+"Tanzania","Africa","TZA","Urb/rur","TZAtu","Urban",6.89,7.48
+"Tanzania","Africa","TZA","Urb/rur","TZAtr","Rural",4.72,5.69
+"Tanzania","Africa","TZA","Poverty","TZAp1","Poor",5.09,5.97
+"Tanzania","Africa","TZA","Poverty","TZAp0","Nonpoor",9.04,9.37
+"Tanzania","Africa","TZA","Wealth quartiles","TZAw41","Lowest 25%",3.82,4.85
+"Tanzania","Africa","TZA","Wealth quartiles","TZAw42","Second 25%",4.47,5.36
+"Tanzania","Africa","TZA","Wealth quartiles","TZAw43","Third 25%",5.37,6.21
+"Tanzania","Africa","TZA","Wealth quartiles","TZAw44","Highest 25%",7.26,7.90
+"Togo","Africa","TGO","National","TGOt","Total",3.06,5.84
+"Togo","Africa","TGO","Urb/rur","TGOtu","Urban",4.77,7.69
+"Togo","Africa","TGO","Urb/rur","TGOtr","Rural",1.86,4.42
+"Togo","Africa","TGO","Poverty","TGOp1","Poor",2.49,5.16
+"Togo","Africa","TGO","Poverty","TGOp0","Nonpoor",5.80,8.91
+"Togo","Africa","TGO","Wealth quartiles","TGOw41","Lowest 25%",1.01,3.21
+"Togo","Africa","TGO","Wealth quartiles","TGOw42","Second 25%",1.84,4.56
+"Togo","Africa","TGO","Wealth quartiles","TGOw43","Third 25%",3.37,6.34
+"Togo","Africa","TGO","Wealth quartiles","TGOw44","Highest 25%",5.36,8.34
+"Uganda","Africa","UGA","National","UGAt","Total",4.62,6.63
+"Uganda","Africa","UGA","Urb/rur","UGAtu","Urban",8.13,9.76
+"Uganda","Africa","UGA","Urb/rur","UGAtr","Rural",3.90,5.94
+"Uganda","Africa","UGA","Poverty","UGAp1","Poor",4.36,6.40
+"Uganda","Africa","UGA","Poverty","UGAp0","Nonpoor",11.1,12.1
+"Uganda","Africa","UGA","Wealth quartiles","UGAw41","Lowest 25%",4.75,6.68
+"Uganda","Africa","UGA","Wealth quartiles","UGAw42","Second 25%",5.10,7.30
+"Uganda","Africa","UGA","Wealth quartiles","UGAw43","Third 25%",4.02,5.99
+"Uganda","Africa","UGA","Wealth quartiles","UGAw44","Highest 25%",4.60,6.53
+"Zambia","Africa","ZMB","National","ZMBt","Total",6.09,7.67
+"Zambia","Africa","ZMB","Urb/rur","ZMBtu","Urban",8.06,9.49
+"Zambia","Africa","ZMB","Urb/rur","ZMBtr","Rural",4.71,6.25
+"Zambia","Africa","ZMB","Poverty","ZMBp1","Poor",5.29,6.88
+"Zambia","Africa","ZMB","Poverty","ZMBp0","Nonpoor",9.48,10.8
+"Zambia","Africa","ZMB","Wealth quartiles","ZMBw41","Lowest 25%",3.77,4.99
+"Zambia","Africa","ZMB","Wealth quartiles","ZMBw42","Second 25%",4.42,5.94
+"Zambia","Africa","ZMB","Wealth quartiles","ZMBw43","Third 25%",6.05,7.68
+"Zambia","Africa","ZMB","Wealth quartiles","ZMBw44","Highest 25%",8.74,10.2
+"Zimbabwe","Africa","ZWE","National","ZWEt","Total",8.28,9.45
+"Zimbabwe","Africa","ZWE","Urb/rur","ZWEtu","Urban",9.74,10.6
+"Zimbabwe","Africa","ZWE","Urb/rur","ZWEtr","Rural",7.23,8.37
+"Zimbabwe","Africa","ZWE","Poverty","ZWEp1","Poor",7.38,8.67
+"Zimbabwe","Africa","ZWE","Poverty","ZWEp0","Nonpoor",10.2,11.0
+"Zimbabwe","Africa","ZWE","Wealth quartiles","ZWEw41","Lowest 25%",6.43,7.45
+"Zimbabwe","Africa","ZWE","Wealth quartiles","ZWEw42","Second 25%",7.45,8.50
+"Zimbabwe","Africa","ZWE","Wealth quartiles","ZWEw43","Third 25%",8.42,9.68
+"Zimbabwe","Africa","ZWE","Wealth quartiles","ZWEw44","Highest 25%",10.2,11.0
